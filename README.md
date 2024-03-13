@@ -1,3 +1,7 @@
+# Use Popcorn
+
+The website allows users to search for movies, rate them, and add them to their watched library.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
